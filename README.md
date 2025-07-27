@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
 Hi, I am a JavaScript developer<br>I develop plugins and mods for servers.
 
 
